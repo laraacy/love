@@ -138,3 +138,11 @@ setInterval(() => {
 
 </body>
 </html>
+<audio autoplay loop>
+  musica.mp3
+</audio>
+https://open.spotify.com/intl-pt/track/3HquVaSS0kA3SLbf7tVoJU?si=88934e6e330c407a
+<audio id="musica" loop>
+  musica.mp3
+</audio>
+<button onclick="tocar()">Clique aqui 💖</button>
